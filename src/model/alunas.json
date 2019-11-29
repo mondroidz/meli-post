@@ -1,6 +1,6 @@
 [
   {
-    "nome": "Agatha",
+    "nome": "HMaria",
     "dateOfBirth": "19/08/1994",
     "nasceuEmSp": "true",
     "id": 1,
@@ -24,7 +24,6 @@
     ]
   },
   {
-    "nome": "Aline",
     "dateOfBirth": "02/10/1994",
     "nasceuEmSp": "true",
     "id": 2,
@@ -48,7 +47,6 @@
     ]
   },
   {
-    "nome": "Amanda",
     "dateOfBirth": "07/03/1994",
     "nasceuEmSp": "false",
     "id": 3,
@@ -72,7 +70,6 @@
     ]
   },
   {
-    "nome": "Ana Gabriela",
     "dateOfBirth": "24/04/1998",
     "nasceuEmSp": "true",
     "id": 4,
@@ -96,7 +93,6 @@
     ]
   },
   {
-    "nome": "Ana Paula",
     "dateOfBirth": "15/03/1997",
     "nasceuEmSp": "true",
     "id": 5,
@@ -120,7 +116,6 @@
     ]
   },
   {
-    "nome": "Camila",
     "dateOfBirth": "24/04/1994",
     "nasceuEmSp": "false",
     "id": 6,
@@ -144,7 +139,6 @@
     ]
   },
   {
-    "nome": "Dayane",
     "dateOfBirth": "16/12/1997",
     "nasceuEmSp": "false",
     "id": 7,
@@ -168,7 +162,6 @@
     ]
   },
   {
-    "nome": "Mara",
     "dateOfBirth": "17/08/1989",
     "nasceuEmSp": "true",
     "id": 8,
@@ -192,7 +185,6 @@
     ]
   },
   {
-    "nome": "Emily",
     "dateOfBirth": "03/06/1995",
     "nasceuEmSp": "false",
     "id": 9,
@@ -216,7 +208,6 @@
     ]
   },
   {
-    "nome": "Evelyn",
     "dateOfBirth": "04/06/1998",
     "nasceuEmSp": "true",
     "id": 10,
@@ -240,7 +231,6 @@
     ]
   },
   {
-    "nome": "Fernanda",
     "dateOfBirth": "07/10/1992",
     "nasceuEmSp": "true",
     "id": 11,
@@ -264,7 +254,6 @@
     ]
   },
   {
-    "nome": "Francielle",
     "dateOfBirth": "11/08/1993",
     "nasceuEmSp": "true",
     "id": 12,
@@ -288,7 +277,6 @@
     ]
   },
   {
-    "nome": "Gabrielle",
     "dateOfBirth": "05/02/1999",
     "nasceuEmSp": "true",
     "id": 13,
@@ -312,7 +300,6 @@
     ]
   },
   {
-    "nome": "Grayce",
     "dateOfBirth": "10/05/1994",
     "nasceuEmSp": "true",
     "id": 14,
@@ -336,7 +323,6 @@
     ]
   },
   {
-    "nome": "Hellen",
     "dateOfBirth": "15/05/1999",
     "nasceuEmSp": "true",
     "id": 15,
@@ -360,7 +346,6 @@
     ]
   },
   {
-    "nome": "Isabela",
     "dateOfBirth": "21/09/1995",
     "nasceuEmSp": "true",
     "id": 16,
@@ -384,7 +369,6 @@
     ]
   },
   {
-    "nome": "Isadora",
     "dateOfBirth": "03/05/1990",
     "nasceuEmSp": "true",
     "id": 17,
@@ -408,7 +392,6 @@
     ]
   },
   {
-    "nome": "Jéssica Costa",
     "dateOfBirth": "23/12/1993",
     "nasceuEmSp": "true",
     "id": 18,
@@ -432,7 +415,6 @@
     ]
   },
   {
-    "nome": "Jéssica Silva",
     "dateOfBirth": "02/04/1999",
     "nasceuEmSp": "true",
     "id": 19,
@@ -456,7 +438,6 @@
     ]
   },
   {
-    "nome": "Joice",
     "dateOfBirth": "24/10/1996",
     "nasceuEmSp": "true",
     "id": 20,
@@ -480,7 +461,6 @@
     ]
   },
   {
-    "nome": "Juliana",
     "dateOfBirth": "18/01/1997",
     "nasceuEmSp": "true",
     "id": 21,
@@ -504,7 +484,6 @@
     ]
   },
   {
-    "nome": "Marcia",
     "dateOfBirth": "08/06/1993",
     "nasceuEmSp": "true",
     "id": 22,
@@ -528,7 +507,6 @@
     ]
   },
   {
-    "nome": "Marina Neves",
     "dateOfBirth": "09/03/1993",
     "nasceuEmSp": "true",
     "id": 23,
@@ -552,7 +530,6 @@
     ]
   },
   {
-    "nome": "Marina Sales",
     "dateOfBirth": "29/01/1996",
     "nasceuEmSp": "true",
     "id": 24,
@@ -576,7 +553,6 @@
     ]
   },
   {
-    "nome": "Nataly",
     "dateOfBirth": "20/10/1996",
     "nasceuEmSp": "true",
     "id": 25,
@@ -600,7 +576,6 @@
     ]
   },
   {
-    "nome": "Paula de Azevedo",
     "dateOfBirth": "22/12/1989",
     "nasceuEmSp": "false",
     "id": 26,
@@ -624,7 +599,6 @@
     ]
   },
   {
-    "nome": "Paula Franco",
     "dateOfBirth": "08/11/1988",
     "nasceuEmSp": "true",
     "id": 27,
@@ -648,7 +622,6 @@
     ]
   },
   {
-    "nome": "Priscila",
     "dateOfBirth": "24/09/1983",
     "nasceuEmSp": "true",
     "id": 28,
@@ -672,7 +645,6 @@
     ]
   },
   {
-    "nome": "Regiane",
     "dateOfBirth": "10/04/1984",
     "nasceuEmSp": "true",
     "id": 29,
@@ -696,7 +668,6 @@
     ]
   },
   {
-    "nome": "Sarah",
     "dateOfBirth": "04/08/1994",
     "nasceuEmSp": "true",
     "id": 30,
@@ -720,7 +691,6 @@
     ]
   },
   {
-    "nome": "Stefanny",
     "dateOfBirth": "02/08/1997",
     "nasceuEmSp": "true",
     "id": 31,
@@ -744,7 +714,6 @@
     ]
   },
   {
-    "nome": "Tatiani",
     "dateOfBirth": "03/05/1991",
     "nasceuEmSp": "true",
     "id": 32,
@@ -768,7 +737,6 @@
     ]
   },
   {
-    "nome": "Thiele",
     "dateOfBirth": "17/02/1997",
     "nasceuEmSp": "true",
     "id": 33,
@@ -792,7 +760,6 @@
     ]
   },
   {
-    "nome": "Tuany",
     "dateOfBirth": "30/04/1989",
     "nasceuEmSp": "true",
     "id": 34,
@@ -812,6 +779,104 @@
       {
         "titulo": "Cangaceiro JavaScript",
         "leu": "true"
+      }
+    ]
+  },
+  {
+    "nome": "Andreia",
+    "dateOfBirth": "19/08/1994",
+    "nasceuEmSp": "true",
+    "id": 1,
+    "livros": [
+      {
+        "titulo": "You dont know JS",
+        "leu": "true"
+      },
+      {
+        "titulo": "Eloquente JavaScript",
+        "leu": "true"
+      },
+      {
+        "titulo": "Clean Code",
+        "leu": "true"
+      },
+      {
+        "titulo": "Cangaceiro JavaScript",
+        "leu": "false"
+      }
+    ]
+  },
+  {
+    "nome": "Hotel",
+    "dateOfBirth": "19/08/1994",
+    "nasceuEmSp": "true",
+    "id": 1,
+    "livros": [
+      {
+        "titulo": "You dont know JS",
+        "leu": "true"
+      },
+      {
+        "titulo": "Eloquente JavaScript",
+        "leu": "true"
+      },
+      {
+        "titulo": "Clean Code",
+        "leu": "true"
+      },
+      {
+        "titulo": "Cangaceiro JavaScript",
+        "leu": "false"
+      }
+    ]
+  },
+  {
+    "nome": "HMaria",
+    "hashPass": "$2a$08$OD5Ys6IfqiEXu432HnSN...1DW6N8mSiq.WjblHYURJupFS3ifQAe",
+    "dateOfBirth": "19/08/1994",
+    "nasceuEmSp": "true",
+    "id": 1,
+    "livros": [
+      {
+        "titulo": "You dont know JS",
+        "leu": "true"
+      },
+      {
+        "titulo": "Eloquente JavaScript",
+        "leu": "true"
+      },
+      {
+        "titulo": "Clean Code",
+        "leu": "true"
+      },
+      {
+        "titulo": "Cangaceiro JavaScript",
+        "leu": "false"
+      }
+    ]
+  },
+  {
+    "nome": "Holanda",
+    "hashPass": "$2a$08$GCyIbomfZY9EhkzaccRJpeJcUkNsqZ2WLLDKEyn2reSZWuXSrGJM.",
+    "dateOfBirth": "19/08/1994",
+    "nasceuEmSp": "true",
+    "id": 1,
+    "livros": [
+      {
+        "titulo": "You dont know JS",
+        "leu": "true"
+      },
+      {
+        "titulo": "Eloquente JavaScript",
+        "leu": "true"
+      },
+      {
+        "titulo": "Clean Code",
+        "leu": "true"
+      },
+      {
+        "titulo": "Cangaceiro JavaScript",
+        "leu": "false"
       }
     ]
   }
